@@ -1,0 +1,1 @@
+# QuarTrend-SDK
